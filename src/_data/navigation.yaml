@@ -1,10 +1,12 @@
 items:
   - text: Home
     url: /
-  - text: Products
-    url: /products
+  # - text: Products
+  #   url: /products
   - text: About
     url: /pages/about-us
+  - text: Gallery
+    url: /
   - text: Blog
     url: /blog
   - text: Contact

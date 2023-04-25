@@ -1,15 +1,25 @@
-title: A taste of every lifestyle
-image: https://images.unsplash.com/photo-1490129375591-2658b3e2ee50?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2244&q=80
-button_text: Read the blog
-button_link: /blog
+title: Author's Home - Pauri
+image: https://www.pathaal.com/img/pathaal-authors/1.jpg
+title_images:
+  - url: https://www.pathaal.com/img/pathaal-authors/1.jpg  
+    index: 0
+  - url: https://www.pathaal.com/img/pathaal-authors/2.jpg
+    index: 1
+  - url: https://www.pathaal.com/img/pathaal-authors/3.jpg
+    index: 2
+  - url: https://www.pathaal.com/img/pathaal-authors/treks.jpg
+    index: 3
+  - url: https://www.pathaal.com/img/pathaal-authors/gallery3.jpg
+    index: 4
+button_text: Visit Now 
+button_link: /contact
 link_one: /pages/about-us
 link_one_text: Find out more
 link_two: /contact
 link_two_text: Get in touch
-full_screen_image: https://images.unsplash.com/photo-1501901609772-df0848060b33?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
-cta_title: We love to travel
-cta_description: Iterative approaches to corporate strategy foster collaborative
-  thinking to further the overall value proposition.
+full_screen_image: https://www.pathaal.com/img/pathaal-authors/treks.jpg
+cta_title: WELCOME TO YOUR HOME IN THE HILLS
+cta_description: What do you get when you restore a hundred year old house, built to its natural perfection, stone by stone, layered by mud and sweat, held tightly by nature's wood and the artisans craft. A house full of stories, testimonies of time and fables of the world around it. Authors Home Pauri is a traditional colonial Bunglow, restored to its last stone. Located amidst deodar forest in a quaint hill town, the Homestay gives you a breathtaking view of the Himalayas. Aroma of the tall deodar trees and peace of the untouched town adds up to the serene view. Best suited for artists, writers, painters, travellers and the tribe who want to explore their creative energies and get inspired by their surroundings. Come, feel the calmness of the Himalayas in the beautiful home which has been restored to give you very comfortable and natural living in the lap of nature. Beautiful nature trails nearby, sports activities in the town, village experience, cycling etc. are few of the many activities that one could indulge in during the stay. We welcome our guests to our home for short and long stays.
 footer_cta_title: Endlessly customizable
 footer_cta_description: Organically grow the holistic world view of disruptive
   innovation via workplace diversity and empowerment.
